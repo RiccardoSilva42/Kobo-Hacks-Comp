@@ -6,27 +6,26 @@ I really think the Kobo Stock Firmware is already good and you could use it fore
 
 LIST OF SOFTWARE/FIRMWARE MODS 
 -----------------------------------------
+# Aplications
+  
+  - [Chess](https://pbchess.vlasovsoft.net/en/) Offline chess for the Kobo. Allows you to play against the engine and solve puzzles.
+
+  - [Calendar](https://github.com/alexjh/kobocal) Google Calendar app with weather.
+
+-------------------------------------------
+  
 [Kobo Devmode](https://goodereader.com/blog/kobo-ereader-news/how-to-access-the-secret-kobo-developer-options)
 
 This enables an extra settings page of options for developers, and also enables extra log collection on the device.
 
-Enable: 
-In the search box enter devmodeon and select GO
-
-Disable:
-In the search box enter devmodeoff and select GO
-
-Side effects
-- Developer options menu at the bottom of the Device Information menu in settings
-- Extra logs are collected
 
 -------------------------------------------
-[Kobo Cloud Sync](https://github.com/fsantini/KoboCloud) This allows you to use popular cloud services 
+[Kobo Cloud Sync](https://github.com/fsantini/KoboCloud) This allows you to use popular cloud services on Kobo SF.
 
 
 
 -------------------------------------------
-[KOreader](https://github.com/koreader/koreader) A document viewer for E-Ink devices. It is more optimized and lighter than the stock firmware - usefull for obsolete models.
+[KOreader](https://github.com/koreader/koreader) A document viewer for E-Ink devices. It gives you many possibilities such as freeing the interface. It is more optimized and lighter than the stock firmware (usefull for old obsolete models that are slow).
 
 
 
@@ -38,7 +37,7 @@ Side effects
 
 
 -----------------------------------------
-[Goodreads reading status sync](https://www.reddit.com/r/kobo/comments/10u5pk0/sync_kobo_reading_status_to_goodreads_using/) Allows you to syncronize your Kobo reading satus to Goodreads  (Using Calibre Plugins).
+[Goodreads reading status sync](https://www.reddit.com/r/kobo/comments/10u5pk0/sync_kobo_reading_status_to_goodreads_using/) Allows you to syncronize your Kobo reading satus to Goodreads  (using Calibre plugins).
 
 
 -----------------------------------------
@@ -53,5 +52,6 @@ Side effects
 LIST OF HARDWARE MODS
 -----------------------------------------
 [Kobo Micro SD Storage Upgrade](https://gist.github.com/aklap/bd677b8e6364f93d482331aeded1d322
-) Old Kobo models allows you to upgrade the SD storage.
+) A few Old Kobo models allows you to upgrade the SD storage.
 
+[Battery Replacement](https://pt.ifixit.com/Guide/Kobo+Glo+HD+eReader+Battery+Replacement/143903) The battery can be replaced, extending the e-reader’s life.
