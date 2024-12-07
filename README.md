@@ -53,6 +53,6 @@ https://goodereader.com/blog/audiobooks/you-can-now-sideload-audiobooks-on-the-k
 
 LIST OF HARDWARE MODS
 -----------------------------------------
-Kobo Storage Upgrade
+Kobo Micro SD Storage Upgrade
 
 https://gist.github.com/aklap/bd677b8e6364f93d482331aeded1d322
