@@ -6,7 +6,7 @@ I really think the Kobo Stock Firmware is already good and you could use it fore
 
 LIST OF SOFTWARE/FIRMWARE MODS 
 -----------------------------------------
-Kobo Devmode
+[Kobo Devmode](https://goodereader.com/blog/kobo-ereader-news/how-to-access-the-secret-kobo-developer-options)
 
 This enables an extra settings page of options for developers, and also enables extra log collection on the device.
 
@@ -26,24 +26,24 @@ Side effects
 
 
 -------------------------------------------
-[KOreader](https://github.com/koreader/koreader)
+[KOreader](https://github.com/koreader/koreader) A document viewer for E-Ink devices. It is more optimized and lighter than the stock firmware - usefull for obsolete models.
 
 
 
 -----------------------------------------
-[Nickel Menu](https://github.com/pgaskin/NickelMenu) & [Nickel Hook](https://github.com/pgaskin/NickelHook)
+[Nickel Menu](https://github.com/pgaskin/NickelMenu) & [Nickel Hook](https://github.com/pgaskin/NickelHook) Adds custom menu items to various menus in Kobo's eReader software. 
 
 
 
 
 
 -----------------------------------------
-[Goodreads reading status sync](https://www.reddit.com/r/kobo/comments/10u5pk0/sync_kobo_reading_status_to_goodreads_using/) (Using Calibre Plugins)
+[Goodreads reading status sync](https://www.reddit.com/r/kobo/comments/10u5pk0/sync_kobo_reading_status_to_goodreads_using/) Allows you to syncronize your Kobo reading satus to Goodreads  (Using Calibre Plugins).
 
 
 -----------------------------------------
 [Audiobooks Sideload](https://goodereader.com/blog/audiobooks/you-can-now-sideload-audiobooks-on-the-kobo-sage-libra-2-and-elipsa
-)
+) Allows you to sideload Audiobooks (or any kind of .mp3 for-free).
 
 
 
@@ -52,6 +52,6 @@ Side effects
 
 LIST OF HARDWARE MODS
 -----------------------------------------
-Kobo Micro SD Storage Upgrade
+[Kobo Micro SD Storage Upgrade](https://gist.github.com/aklap/bd677b8e6364f93d482331aeded1d322
+) Old Kobo models allows you to upgrade the SD storage.
 
-https://gist.github.com/aklap/bd677b8e6364f93d482331aeded1d322
