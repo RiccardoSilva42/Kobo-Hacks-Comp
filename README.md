@@ -4,7 +4,7 @@ This repository is a list that collects a bunch of cool things you can do for mo
 
 I really think the Kobo Stock Firmware is already good and you could use it forever (especially if you are using Calibre as your personal book manager). However, these mods can further increase the Kobo's performance and possibilities.
 
-LIST OF SOFTWARE/FIRMWARE MODS
+LIST OF SOFTWARE/FIRMWARE MODS 
 -----------------------------------------
 Kobo Devmode
 
@@ -21,31 +21,30 @@ Side effects
 - Extra logs are collected
 
 -------------------------------------------
-Kobo Cloud Sync
+[Kobo Cloud Sync](https://github.com/fsantini/KoboCloud) This allows you to use popular cloud services 
 
-https://github.com/fsantini/KoboCloud
+
 
 -------------------------------------------
-KOreader
+[KOreader](https://github.com/koreader/koreader)
 
-https://github.com/koreader/koreader
 
------------------------------------------
-Nickel Menu & Nickel Hook
-
-https://github.com/pgaskin/NickelMenu
-
-https://github.com/pgaskin/NickelHook
 
 -----------------------------------------
-Goodreads reading status sync (Using Calibre)
+[Nickel Menu](https://github.com/pgaskin/NickelMenu) & [Nickel Hook](https://github.com/pgaskin/NickelHook)
 
-https://www.reddit.com/r/kobo/comments/10u5pk0/sync_kobo_reading_status_to_goodreads_using/
+
+
+
 
 -----------------------------------------
-Audiobooks Sideload
+[Goodreads reading status sync](https://www.reddit.com/r/kobo/comments/10u5pk0/sync_kobo_reading_status_to_goodreads_using/) (Using Calibre Plugins)
 
-https://goodereader.com/blog/audiobooks/you-can-now-sideload-audiobooks-on-the-kobo-sage-libra-2-and-elipsa
+
+-----------------------------------------
+[Audiobooks Sideload](https://goodereader.com/blog/audiobooks/you-can-now-sideload-audiobooks-on-the-kobo-sage-libra-2-and-elipsa
+)
+
 
 
 
