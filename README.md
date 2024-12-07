@@ -1,8 +1,8 @@
 
 # Prelude
-This repository is a list that collects a bunch of cool things that you can do for modify your Kobo e-reader and increase its potential. Most firmware mods are quite easy to do, so they are quite safe. Before starting, i really recommend you to use [Calibre](https://calibre-ebook.com/) (it is an customizable open source software that allows you to do some useful things like sideloading and converting books to your ereader). It is also very useful for organizing and managing your personal library in an easier way. Some of the mods (like syncing your reading satus to [Goodreads](https://www.goodreads.com/)) requires you to install some Calibre Plugins. 
+This repository is a list that collects a bunch of cool things that you can do for modify your Kobo e-reader and increase its potential. Most firmware mods are quite easy to do, so they are quite safe. Before starting, i really recommend you to use [Calibre](https://calibre-ebook.com/) (it is an customizable open source software that allows you to do some useful things like sideloading and converting books to your ereader). It is also very useful for organizing and managing your personal library in an easier way. Some of the mods (like syncing your Kobo reading satus to [Goodreads](https://www.goodreads.com/)) requires you to install some Calibre Plugins. 
 
-I think that the Kobo Stock Firmware is already good and you could use it forever (especially if you are using Calibre as your personal book manager). However, these mods can further increase the Kobo's performance and possibilities.
+I really think the Kobo Stock Firmware is already good and you could use it forever (especially if you are using Calibre as your personal book manager). However, these mods can further increase the Kobo's performance and possibilities.
 
 LIST OF SOFTWARE/FIRMWARE MODS
 -----------------------------------------
