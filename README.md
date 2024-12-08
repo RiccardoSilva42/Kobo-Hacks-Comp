@@ -55,6 +55,6 @@ Wirelless Book Sideload ([djazz](https://send.djazz.se/) and [kobli](https://kob
 LIST OF HARDWARE MODS
 -----------------------------------------
 [Kobo Micro SD Storage Upgrade](https://gist.github.com/aklap/bd677b8e6364f93d482331aeded1d322
-) A few Old Kobo models allows you to upgrade the SD storage.
+) A few Old Kobo models allows you to upgrade the SD storage. [This tutorial](https://yingtongli.me/blog/2018/07/29/kobo-sd.html) is also very usefull.
 
 [Battery Replacement](https://pt.ifixit.com/Guide/Kobo+Glo+HD+eReader+Battery+Replacement/143903) The battery can be replaced, extending the e-reader’s life.
