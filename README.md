@@ -34,12 +34,12 @@ LIST OF SOFTWARE/FIRMWARE MODS
 
 -----------------------------------------
 - [Audiobooks Sideload](https://goodereader.com/blog/audiobooks/you-can-now-sideload-audiobooks-on-the-kobo-sage-libra-2-and-elipsa
-) Allows you to sideload Audiobooks (or any kind of .mp3 for-free).
+) Allows you to sideload Audiobooks (or any kind of .mp3) for-free.
 
 
 
 -----------------------------------------
-- Wirelless Book Sideload ([djazz](https://send.djazz.se/) and [kobli](https://kobli.me/)) Give you a possibility of sideloading e-books wirelessly through the Kobo´s browser. If you use Calibre, you can run Calibre Content Server and then access your Calibre library from the browser built on the e-reader and download what you wish.
+-  [Wirelless Book Sideload](https://send.djazz.se/) Give you a possibility of sideloading e-books wirelessly through the Kobo´s browser. If you use Calibre, you can run Calibre Content Server and then access your Calibre library from the browser built on the e-reader and download what you wish. [Kobli](https://kobli.me/) is also an option.
 
 
  []
