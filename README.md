@@ -5,13 +5,6 @@ This repository is a list that collects a bunch of cool things you can do for mo
 I really think the Kobo Stock Firmware is already good and you could use it forever (especially if you are using Calibre as your personal book manager). However, these mods can further increase the Kobo's performance and possibilities.
 
 LIST OF SOFTWARE/FIRMWARE MODS 
------------------------------------------
-# Aplications
-  
-  - [Chess](https://pbchess.vlasovsoft.net/en/) Offline chess for the Kobo. Allows you to play against the engine and solve puzzles.
-
-  - [Calendar](https://github.com/alexjh/kobocal) Google Calendar app with weather.
-
 -------------------------------------------
   
 [Kobo Devmode](https://goodereader.com/blog/kobo-ereader-news/how-to-access-the-secret-kobo-developer-options)
@@ -45,7 +38,12 @@ This enables an extra settings page of options for developers, and also enables 
 ) Allows you to sideload Audiobooks (or any kind of .mp3 for-free).
 
 
+-----------------------------------------
+# Other Aplications
+  
+  - [Chess](https://pbchess.vlasovsoft.net/en/) Offline chess for the Kobo. Allows you to play against the engine and solve puzzles.
 
+  - [Calendar](https://github.com/alexjh/kobocal) Google Calendar app with weather.
 
 
 
