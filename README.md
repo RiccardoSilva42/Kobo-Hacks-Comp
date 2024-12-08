@@ -7,9 +7,8 @@ I really think the Kobo Stock Firmware is already good and you could use it fore
 LIST OF SOFTWARE/FIRMWARE MODS 
 -------------------------------------------
   
-[Kobo Devmode](https://goodereader.com/blog/kobo-ereader-news/how-to-access-the-secret-kobo-developer-options)
+[Kobo Devmode](https://goodereader.com/blog/kobo-ereader-news/how-to-access-the-secret-kobo-developer-options) This enables an extra settings page of options for developers, and also enables extra log collection on the device.
 
-This enables an extra settings page of options for developers, and also enables extra log collection on the device.
 
 
 -------------------------------------------
@@ -28,9 +27,9 @@ This enables an extra settings page of options for developers, and also enables 
 
 
 
-
 -----------------------------------------
 [Goodreads reading status sync](https://www.reddit.com/r/kobo/comments/10u5pk0/sync_kobo_reading_status_to_goodreads_using/) Allows you to syncronize your Kobo reading satus to Goodreads  (using Calibre plugins).
+
 
 
 -----------------------------------------
@@ -38,7 +37,14 @@ This enables an extra settings page of options for developers, and also enables 
 ) Allows you to sideload Audiobooks (or any kind of .mp3 for-free).
 
 
+
 -----------------------------------------
+Wirelless Book Sideload ([djazz](https://send.djazz.se/) and [kobli](https://kobli.me/)) Give you a possibility of sideloading e-books wirelessly through the Kobo´s browser.
+
+
+
+-----------------------------------------
+
 # Other Aplications
   
   - [Chess](https://pbchess.vlasovsoft.net/en/) Offline chess for the Kobo. Allows you to play against the engine and solve puzzles.
