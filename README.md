@@ -4,6 +4,7 @@ This repository is a list that collects a bunch of cool things you can do for mo
 
 I really think the Kobo Stock Firmware is already good and you could use it forever (especially if you are using Calibre as your personal book manager). However, these mods can further increase the Kobo's performance and possibilities.
 
+
 LIST OF SOFTWARE/FIRMWARE MODS 
 -------------------------------------------
   
@@ -12,12 +13,12 @@ LIST OF SOFTWARE/FIRMWARE MODS
 
 
 -------------------------------------------
-[Kobo Cloud Sync](https://github.com/fsantini/KoboCloud) This allows you to use popular cloud services on Kobo SF.
+[Kobo Cloud Sync](https://github.com/fsantini/KoboCloud) This allows you to use popular cloud services on Kobo Stock Firmware.
 
 
 
 ------------------------------------------
-[Nickel Menu](https://github.com/pgaskin/NickelMenu) & [Nickel Hook](https://github.com/pgaskin/NickelHook) Adds custom menu items to various menus in Kobo's eReader software. 
+[Nickel Menu](https://github.com/pgaskin/NickelMenu) & [Nickel Hook](https://github.com/pgaskin/NickelHook) Adds custom menu items to various menus in Kobo's eReader software. It can be used to launch alternative software for Kobo.
 
 
 
@@ -43,6 +44,23 @@ Wirelless Book Sideload ([djazz](https://send.djazz.se/) and [kobli](https://kob
 
 
 -----------------------------------------
+# Calibre Plugins 
+
+- Kobo Utilities
+
+- Kobo Touch Extended
+
+- Kepub plugins
+
+- Epub check
+
+- Smart eject
+
+- KOReader sync
+
+- Reading list
+
+- Goodreads Sync
 
 # Other Aplications
   
@@ -58,3 +76,8 @@ LIST OF HARDWARE MODS
 ) A few Old Kobo models allows you to upgrade the SD storage. [This tutorial](https://yingtongli.me/blog/2018/07/29/kobo-sd.html) is also very usefull.
 
 [Battery Replacement](https://pt.ifixit.com/Guide/Kobo+Glo+HD+eReader+Battery+Replacement/143903) The battery can be replaced, extending the e-reader’s life.
+
+
+See also: 
+
+[Tips to keep and maintenance your Kobo](https://www.reddit.com/r/kobo/comments/174ew36/tips_to_keep_and_maintenance_your_kobo/?utm_source=share&utm_medium=web2x&context=3)
