@@ -16,14 +16,13 @@ LIST OF SOFTWARE/FIRMWARE MODS
 
 
 
--------------------------------------------
-[KOreader](https://github.com/koreader/koreader) A document viewer for E-Ink devices. It gives you many possibilities such as freeing the interface. It is more optimized and lighter than the stock firmware (usefull for old obsolete models that are slow).
-
-
-
------------------------------------------
+------------------------------------------
 [Nickel Menu](https://github.com/pgaskin/NickelMenu) & [Nickel Hook](https://github.com/pgaskin/NickelHook) Adds custom menu items to various menus in Kobo's eReader software. 
 
+
+
+-------------------------------------------
+[KOreader](https://github.com/koreader/koreader) A highly customizable document viewer for E-Ink devices. It gives you many possibilities such as freeing the user interface and modify the book margin. It is more optimized and lighter than the stock firmware (usefull for old obsolete models that are slow). Obs: A launcher (like Nickel Menu) must be currently installed on the device, allowing you to select KOReader in the Kobo Start Menu.
 
 
 
@@ -39,7 +38,7 @@ LIST OF SOFTWARE/FIRMWARE MODS
 
 
 -----------------------------------------
-Wirelless Book Sideload ([djazz](https://send.djazz.se/) and [kobli](https://kobli.me/)) Give you a possibility of sideloading e-books wirelessly through the Kobo´s browser.
+Wirelless Book Sideload ([djazz](https://send.djazz.se/) and [kobli](https://kobli.me/)) Give you a possibility of sideloading e-books wirelessly through the Kobo´s browser. If you use Calibre, you can run Calibre Content Server and then access your Calibre library from the browser built on the e-reader and download what you wish.
 
 
 
