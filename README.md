@@ -42,26 +42,28 @@ LIST OF SOFTWARE/FIRMWARE MODS
 Wirelless Book Sideload ([djazz](https://send.djazz.se/) and [kobli](https://kobli.me/)) Give you a possibility of sideloading e-books wirelessly through the Kobo´s browser. If you use Calibre, you can run Calibre Content Server and then access your Calibre library from the browser built on the e-reader and download what you wish.
 
 
-
+ []
 -----------------------------------------
 # Calibre Plugins 
 
-- Kobo Utilities
+- [Kobo Utilities](https://www.mobileread.com/forums/showthread.php?t=215339) Utilities to use with Kobo ereaders
 
-- Kobo Touch Extended
+-  [Kobo Touch Extended](https://www.mobileread.com/forums/showthread.php?t=211135) 
+Enables access to Kobo kePub features
 
-- Kepub plugins
+-  [Kepub plugins](https://github.com/jgoguen/calibre-kobo-driver/tree/main) This provides a series of calibre extensions enabling calibre to work with ePub files with Kobo's extra features (called KePub).
 
-- Epub check
+-  [Epub check](https://www.mobileread.com/forums/showthread.php?t=282067) Allows you to check books 
 
-- Smart eject
+-  [Smart eject](https://www.mobileread.com/forums/showthread.php?t=192950) UI plugin to Check for Duplicate/Missing/Added Books when Ejecting Devices/Top Level Device Eject Button.
 
-- KOReader sync
+-  [KOReader sync](https://www.mobileread.com/forums/showthread.php?t=362706) Allows to synchronize metadata from KOReader to calibre.
 
-- Reading list
+-  [Reading list](https://www.mobileread.com/forums/showthread.php?t=134856) UI plugin that allows you to maintain one of more lists of books you would like to read, adjust the reading order and optionally sync to your devices.
 
-- Goodreads Sync
+-  [Goodreads Sync](https://www.mobileread.com/forums/showthread.php?t=123281) Sync from Calibre with the shelves of your goodreads.com account
 
+See also:  [Index of plugins](https://www.mobileread.com/forums/showthread.php?t=118764)
 # Other Aplications
   
   - [Chess](https://pbchess.vlasovsoft.net/en/) Offline chess for the Kobo. Allows you to play against the engine and solve puzzles.
