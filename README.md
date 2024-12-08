@@ -8,38 +8,38 @@ I really think the Kobo Stock Firmware is already good and you could use it fore
 LIST OF SOFTWARE/FIRMWARE MODS 
 -------------------------------------------
   
-[Kobo Devmode](https://goodereader.com/blog/kobo-ereader-news/how-to-access-the-secret-kobo-developer-options) This enables an extra settings page of options for developers, and also enables extra log collection on the device.
+- [Kobo Devmode](https://goodereader.com/blog/kobo-ereader-news/how-to-access-the-secret-kobo-developer-options) This enables an extra settings page of options for developers, and also enables extra log collection on the device.
 
 
 
 -------------------------------------------
-[Kobo Cloud Sync](https://github.com/fsantini/KoboCloud) This allows you to use popular cloud services on Kobo Stock Firmware.
+- [Kobo Cloud Sync](https://github.com/fsantini/KoboCloud) This allows you to use popular cloud services on Kobo Stock Firmware.
 
 
 
 ------------------------------------------
-[Nickel Menu](https://github.com/pgaskin/NickelMenu) & [Nickel Hook](https://github.com/pgaskin/NickelHook) Adds custom menu items to various menus in Kobo's eReader software. It can be used to launch alternative software for Kobo.
+- [Nickel Menu](https://github.com/pgaskin/NickelMenu) & [Nickel Hook](https://github.com/pgaskin/NickelHook) Adds custom menu items to various menus in Kobo's eReader software. It can be used to launch alternative software for Kobo.
 
 
 
 -------------------------------------------
-[KOreader](https://github.com/koreader/koreader) A highly customizable document viewer for E-Ink devices. It gives you many possibilities such as freeing the user interface and modify the book margin. It is more optimized and lighter than the stock firmware (usefull for old obsolete models that are slow). Obs: A launcher (like Nickel Menu) must be currently installed on the device, allowing you to select KOReader in the Kobo Start Menu.
+- [KOreader](https://github.com/koreader/koreader) A highly customizable document viewer for E-Ink devices. It gives you many possibilities such as freeing the user interface and modify the book margin. It is more optimized and lighter than the stock firmware (usefull for old obsolete models that are slow). Obs: A launcher (like Nickel Menu) must be currently installed on the device, allowing you to select KOReader in the Kobo Start Menu.
 
 
 
 -----------------------------------------
-[Goodreads reading status sync](https://www.reddit.com/r/kobo/comments/10u5pk0/sync_kobo_reading_status_to_goodreads_using/) Allows you to syncronize your Kobo reading satus to Goodreads  (using Calibre plugins).
+- [Goodreads reading status sync](https://www.reddit.com/r/kobo/comments/10u5pk0/sync_kobo_reading_status_to_goodreads_using/) Allows you to syncronize your Kobo reading satus to Goodreads  (using Calibre plugins).
 
 
 
 -----------------------------------------
-[Audiobooks Sideload](https://goodereader.com/blog/audiobooks/you-can-now-sideload-audiobooks-on-the-kobo-sage-libra-2-and-elipsa
+- [Audiobooks Sideload](https://goodereader.com/blog/audiobooks/you-can-now-sideload-audiobooks-on-the-kobo-sage-libra-2-and-elipsa
 ) Allows you to sideload Audiobooks (or any kind of .mp3 for-free).
 
 
 
 -----------------------------------------
-Wirelless Book Sideload ([djazz](https://send.djazz.se/) and [kobli](https://kobli.me/)) Give you a possibility of sideloading e-books wirelessly through the Kobo´s browser. If you use Calibre, you can run Calibre Content Server and then access your Calibre library from the browser built on the e-reader and download what you wish.
+- Wirelless Book Sideload ([djazz](https://send.djazz.se/) and [kobli](https://kobli.me/)) Give you a possibility of sideloading e-books wirelessly through the Kobo´s browser. If you use Calibre, you can run Calibre Content Server and then access your Calibre library from the browser built on the e-reader and download what you wish.
 
 
  []
@@ -74,10 +74,10 @@ See also:  [Index of plugins](https://www.mobileread.com/forums/showthread.php?t
 
 LIST OF HARDWARE MODS
 -----------------------------------------
-[Kobo Micro SD Storage Upgrade](https://gist.github.com/aklap/bd677b8e6364f93d482331aeded1d322
+- [Kobo Micro SD Storage Upgrade](https://gist.github.com/aklap/bd677b8e6364f93d482331aeded1d322
 ) A few Old Kobo models allows you to upgrade the SD storage. [This tutorial](https://yingtongli.me/blog/2018/07/29/kobo-sd.html) is also very usefull.
 
-[Battery Replacement](https://pt.ifixit.com/Guide/Kobo+Glo+HD+eReader+Battery+Replacement/143903) The battery can be replaced, extending the e-reader’s life.
+- [Battery Replacement](https://pt.ifixit.com/Guide/Kobo+Glo+HD+eReader+Battery+Replacement/143903) The battery can be replaced, extending the e-reader’s life.
 
 
 See also: [Tips to keep and maintenance your Kobo](https://www.reddit.com/r/kobo/comments/174ew36/tips_to_keep_and_maintenance_your_kobo/?utm_source=share&utm_medium=web2x&context=3)
