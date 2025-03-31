@@ -39,7 +39,7 @@ LIST OF SOFTWARE/FIRMWARE MODS
 
 
 -----------------------------------------
--  [Wirelless Book Sideload](https://send.djazz.se/) Give you a possibility of sideloading e-books wirelessly through the Kobo´s browser. If you use Calibre, you can run Calibre Content Server and then access your Calibre library from the browser built on the e-reader and download what you wish. [Kobli](https://kobli.me/) is also an option.
+-  [Wirelless Book Sideload](https://send.djazz.se/) Give you a possibility of sideloading e-books wirelessly through the Kobo´s browser. If you use Calibre, you can run Calibre Content Server and then access your Calibre library from the browser built on the e-reader and download what you wish. [Kobli](https://kobli.me/) is also an option. Or you can simply use KOreader.
 
 
 
