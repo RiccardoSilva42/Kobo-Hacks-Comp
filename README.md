@@ -46,7 +46,7 @@ LIST OF SOFTWARE/FIRMWARE MODS
 
 
 -----------------------------------------
-- [Dictionaries] (https://download.wikdict.com/dictionaries/kobo/) Add custom dictionaries. 
+- [Dictionaries](https://download.wikdict.com/dictionaries/kobo/) Add custom dictionaries. See also: [Index of Kobo bilingual dictionaries](https://download.wikdict.com/dictionaries/kobo/).
 
 
 
