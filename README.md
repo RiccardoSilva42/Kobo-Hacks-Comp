@@ -52,7 +52,7 @@ LIST OF SOFTWARE/FIRMWARE MODS
 
 
 -----------------------------------------
-- [Custom Fonts](https://goodereader.com/blog/electronic-readers/how-to-add-custom-fonts-to-your-kobo-e-reader) Allows you to add custom fonts to your Kobo.  [This guide also is very usefull](https://www.mobileread.com/forums/showthread.php?t=345873) For free fonts, go there: https://www.1001freefonts.com/
+- [Custom Fonts](https://goodereader.com/blog/electronic-readers/how-to-add-custom-fonts-to-your-kobo-e-reader) Allows you to add custom fonts to your Kobo. [This guide also is very usefull](https://www.mobileread.com/forums/showthread.php?t=345873). For free fonts, go there: https://www.1001freefonts.com/
 
 
 
