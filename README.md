@@ -46,7 +46,13 @@ LIST OF SOFTWARE/FIRMWARE MODS
 
 
 -----------------------------------------
-- [Dictionaries](https://download.wikdict.com/dictionaries/kobo/) Add custom dictionaries. See also: [Index of Kobo bilingual dictionaries](https://download.wikdict.com/dictionaries/kobo/).
+- [Dictionaries](https://download.wikdict.com/dictionaries/kobo/) Add custom monolingual, bilingual, and universal, dictionaries based on the Wiktionary. See also: [Index of Kobo bilingual dictionaries](https://download.wikdict.com/dictionaries/kobo/).
+
+
+
+
+-----------------------------------------
+- [Custom Fonts](https://goodereader.com/blog/electronic-readers/how-to-add-custom-fonts-to-your-kobo-e-reader) Allows you to add custom fonts to your Kobo.  [This guide also is very usefull](https://www.mobileread.com/forums/showthread.php?t=345873) For free fonts, go there: https://www.1001freefonts.com/
 
 
 
@@ -86,6 +92,16 @@ LIST OF HARDWARE MODS
 ) A few Old Kobo models allows you to upgrade the SD storage. [This tutorial](https://yingtongli.me/blog/2018/07/29/kobo-sd.html) is also very usefull.
 
 - [Battery Replacement](https://pt.ifixit.com/Guide/Kobo+Glo+HD+eReader+Battery+Replacement/143903) The battery can be replaced, extending the e-reader’s life.
+
+
+-----------------------------------------
+Some useful links: 
+
+https://www.mobileread.com/forums/showthread.php?t=295612
+
+https://anarc.at/hardware/tablet/kobo-clara-hd/#install-syncthing
+
+
 
 
 See also: [Tips to keep and maintenance your Kobo](https://www.reddit.com/r/kobo/comments/174ew36/tips_to_keep_and_maintenance_your_kobo/?utm_source=share&utm_medium=web2x&context=3) and  [Kobo eReader Hacks](https://wiki.mobileread.com/wiki/Kobo_eReader_hacks).
