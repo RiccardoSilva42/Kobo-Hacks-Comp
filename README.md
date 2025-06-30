@@ -46,6 +46,12 @@ LIST OF SOFTWARE/FIRMWARE MODS
 
 
 -----------------------------------------
+- [Dictionaries] (https://download.wikdict.com/dictionaries/kobo/) Add custom dictionaries. 
+
+
+
+
+-----------------------------------------
 # Calibre Plugins 
 
 - [Kobo Utilities](https://www.mobileread.com/forums/showthread.php?t=215339) Utilities to use with Kobo ereaders
