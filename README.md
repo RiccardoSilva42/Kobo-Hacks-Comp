@@ -82,4 +82,4 @@ LIST OF HARDWARE MODS
 - [Battery Replacement](https://pt.ifixit.com/Guide/Kobo+Glo+HD+eReader+Battery+Replacement/143903) The battery can be replaced, extending the e-reader’s life.
 
 
-See also: [Tips to keep and maintenance your Kobo](https://www.reddit.com/r/kobo/comments/174ew36/tips_to_keep_and_maintenance_your_kobo/?utm_source=share&utm_medium=web2x&context=3)
+See also: [Tips to keep and maintenance your Kobo](https://www.reddit.com/r/kobo/comments/174ew36/tips_to_keep_and_maintenance_your_kobo/?utm_source=share&utm_medium=web2x&context=3) and  [Kobo eReader Hacks](https://wiki.mobileread.com/wiki/Kobo_eReader_hacks).
