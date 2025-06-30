@@ -7,6 +7,8 @@ I really think the Kobo Stock Firmware is already good and you could use it fore
 
 LIST OF SOFTWARE/FIRMWARE MODS 
 -------------------------------------------
+- [Kobo Wallpaper](https://www.reddit.com/r/kobo/comments/158p6k0/ps_you_can_absolutely_set_a_nice_image_as_a/) You can add custom screensaver images to your Kobo device.
+-------------------------------------------
   
 - [Kobo Devmode](https://goodereader.com/blog/kobo-ereader-news/how-to-access-the-secret-kobo-developer-options) This enables an extra settings page of options for developers, and also enables extra log collection on the device.
 
