@@ -101,6 +101,8 @@ https://www.mobileread.com/forums/showthread.php?t=295612
 
 https://anarc.at/hardware/tablet/kobo-clara-hd/#install-syncthing
 
+https://anarc.at/hardware/tablet/kobo-clara-hd/
+
 
 
 
