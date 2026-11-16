@@ -84,6 +84,8 @@ See also:  [Index of plugins](https://www.mobileread.com/forums/showthread.php?t
 
   - [Calendar](https://github.com/alexjh/kobocal) Google Calendar app with weather.
 
+  - [InoInk](https://github.com/justmytwospence/InoInk) Offline Inoreader (RSS) client for Kobo, launched from NickelMenu. Syncs read and starred articles, highlights and notes with your Inoreader account.
+
 
 
 LIST OF HARDWARE MODS
